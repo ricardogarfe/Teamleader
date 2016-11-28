@@ -1,13 +1,13 @@
 {
-	"name": "sumocoders/teamleader",
+	"name": "ricardogarfe/teamleader",
 	"type": "library",
 	"description": "PHP Teamleader is a (wrapper)class to communicate with Teamleader (http://www.teamleader.be).",
-	"homepage": "https://github.com/sumocoders/Teamleader",
+	"homepage": "https://github.com/ricardogarfe/Teamleader",
 	"license": "BSD",
 	"authors": [
 		{
-			"name": "Tijs Verkoyen",
-			"email": "php-teamleader@verkoyen.eu",
+			"name": "Ricardo García Fernández",
+			"email": "ricardogarfe@gmail.com",
 			"role": "Developer"
 		}
 	],
