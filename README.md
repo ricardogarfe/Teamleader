@@ -2,7 +2,7 @@
 
 ## Installation
 
-`composer require sumocoders/teamleader`
+`composer require ricardogarfe/teamleader`
 
 ## Usage
 
