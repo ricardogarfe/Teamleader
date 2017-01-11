@@ -1,13 +1,13 @@
 {
-	"name": "ricardogarfe/teamleader",
+	"name": "aldav82/teamleader",
 	"type": "library",
 	"description": "PHP Teamleader is a (wrapper)class to communicate with Teamleader (http://www.teamleader.be).",
-	"homepage": "https://github.com/ricardogarfe/Teamleader",
+	"homepage": "https://github.com/aldav82/Teamleader",
 	"license": "BSD",
 	"authors": [
 		{
-			"name": "Ricardo García Fernández",
-			"email": "ricardogarfe@gmail.com",
+			"name": "Alfredo Alvarez Salvador",
+			"email": "aldav82@gmail.com",
 			"role": "Developer"
 		}
 	],
